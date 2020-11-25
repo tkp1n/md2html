@@ -20,7 +20,7 @@
     "@angular/platform-browser-dynamic": "~8.1.1",
     "@angular/router": "~8.1.1",
     "dompurify": "^1.0.11",
-    "highlight.js": "^9.15.8",
+    "highlight.js": "^10.1.2",
     "marked": "^0.7.0",
     "rxjs": "~6.4.0",
     "tslib": "^1.9.0",
