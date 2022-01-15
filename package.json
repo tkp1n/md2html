@@ -21,7 +21,7 @@
     "@angular/router": "~8.1.1",
     "dompurify": "^1.0.11",
     "highlight.js": "^9.15.8",
-    "marked": "^0.7.0",
+    "marked": "^4.0.10",
     "rxjs": "~6.4.0",
     "tslib": "^1.9.0",
     "zone.js": "~0.9.1"
